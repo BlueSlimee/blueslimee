@@ -5,6 +5,11 @@
 [![Spotify](https://badges.aleen42.com/src/spotify.svg)](https://open.spotify.com/user/s5px6saslgh68ct3za71buljn?si=tEjEE-G8RwO4rBKK9hmNAw)
 [![JetBrains](https://badges.aleen42.com/src/idea.svg)](https://jetbrains.com)
 
-![🎼🎼](https://github-readme-stats.vercel.app/api/top-langs/?username=blueslimee&lang_count=7&layout=compact&theme=gotham)
-![Stats](https://github-readme-stats.vercel.app/api?username=blueslimee&theme=gotham&include_all_commits=true)
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueslimee&langs_count=7&layout=compact&theme=gotham&count_private=true" alt="github stats"/>
+</a>
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=blueslimee&theme=gotham&include_all_commits=true&count_private=true" alt="top langs"/>
+</a>
+
 [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=BlueSlimee)](https://last.fm/user/BlueSlimee)
